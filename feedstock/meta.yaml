@@ -19,4 +19,4 @@ maintainers:
   orcid: "0000-0000-0000-0000"
   github: jdxyz
 bakery:
-  id: "mock-bakery"
+  id: "local-test-bakery"
